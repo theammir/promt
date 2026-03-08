@@ -1,6 +1,6 @@
 # promt - LLM chat, fzf-style
 
-**This thing is fully vibe-coded with Claude Opus 4.6 via opencode**
+**This thing is fully vibe-coded with Claude Opus 4.6 via opencode.**
 **If you want to use it, please be wary of the possibility of your computer
 exploding in your face, right after sending all your data to ICE
 (this is potentially deadly for you and your 'puter).**
