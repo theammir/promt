@@ -20,7 +20,7 @@ No worries, *promt*, I have my issues, too.
 
 ## Initial idea
 
-Go look at [PLAN.md], this is the initial idea.
+Go look at [PLAN.md](PLAN.md), this is the initial idea.
 
 Claude asked me a bunch of questions and we ended up overcomplicating the
 entire thing from the very beginning.
