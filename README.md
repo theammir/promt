@@ -5,6 +5,8 @@
 exploding in your face, right after sending all your data to ICE
 (this is potentially deadly for you and your 'puter).**
 
+![Program screenshot](static/screenshot.png)
+
 I didn't want to write a TUI program again, and I didn't want to spend my
 weekend actively thinking. So I outsourced it to Claude to potentially figure out whether
 it's quicker to make a working piece of useful software this way.
